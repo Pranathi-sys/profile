@@ -45,8 +45,6 @@ I’m a **DevOps Engineer** based in Cincinnati, OH, passionate about using tech
 
 ---
 
-## 🏆 **Certifications**
-
 ## 🏆 **Certifications & Achievements**
 
 <details>
